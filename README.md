@@ -14,3 +14,6 @@ Plan out to build similar design to this
 
 ## Docs
 Here is my docs until I get further into the project.
+
+# JSX
+- Prevents Injection Attacks
